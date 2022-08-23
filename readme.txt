@@ -14,3 +14,8 @@ Creating a new branch is quick AND simple.
 
 修改bug101
 
+修改bug102
+
+工作中2
+
+工作完成
